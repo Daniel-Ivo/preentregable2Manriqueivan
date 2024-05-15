@@ -30,6 +30,7 @@ header{
     
 }
 .frutos-secos-container img{
+    height: 200px;
     border-radius: 5%;
 }
 
@@ -130,6 +131,14 @@ p{
 ul{
     color: orangered; 
 }
+
+.budin{
+display: grid;
+border: solid 3px;
+grid-template-columns: repeat (2, auto);
+grid-template-rows: repeat (2, auto);
+}
+
 
 a{
     display: flex;
