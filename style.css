@@ -14,8 +14,9 @@ header{
     gap: 20px;
     border: 5px solid orangered;
     padding: 55px;
-  
-
+}
+.grid-item{
+    width: auto;
 }
 
 .frutos-secos-container{
@@ -134,7 +135,6 @@ ul{
 
 .budin{
 display: grid;
-border: solid 3px;
 grid-template-columns: repeat (2, auto);
 grid-template-rows: repeat (2, auto);
 }
@@ -199,5 +199,6 @@ section nav{
     border-radius: 5%;
     height: 250px;
 }
+
 
 
