@@ -201,4 +201,9 @@ section nav{
 }
 
 
-
+@media only screen and ( max: 320px){
+    .grid-container{
+        grid-template-rows: 1 auto;
+       
+    }
+}
