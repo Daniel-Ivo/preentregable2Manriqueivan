@@ -207,10 +207,10 @@ section nav{
         text-align: center;
        
     }
-    .diploma{
-        display: flex;
-        flex-direction: column;
+    .diploma img{
+       display: flex;
+       flex-direction: column;
         margin-left: 2px;
-        text-align: center;
+        text-align: left;
     }
 }
