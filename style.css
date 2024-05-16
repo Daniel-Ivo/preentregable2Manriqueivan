@@ -206,4 +206,8 @@ section nav{
         grid-template-rows: 1 auto;
        
     }
+    .diploma{
+        display: flex;
+        flex-direction: column;
+    }
 }
