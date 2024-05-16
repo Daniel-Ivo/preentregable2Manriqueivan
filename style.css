@@ -220,7 +220,7 @@ section nav{
     height: 250px;
 }
 
-/*
+
 @media only screen and ( max: 424px){
     .Grid-container{
         grid-template-rows: 1 auto;
@@ -232,4 +232,3 @@ section nav{
         align-content: center;
     }
 }
-*/
