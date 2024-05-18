@@ -158,7 +158,7 @@ ul{
     .grid-item{
         border: solid 4px;
         border-color: black;
-        padding: 5%;
+        padding: 5px;
     }
     .grid-item p{
         border-radius: 5%;
