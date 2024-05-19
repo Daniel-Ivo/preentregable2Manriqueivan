@@ -138,7 +138,7 @@ h4{
     margin-left: 430px;
 }
 body {
-    background-color: turquoise;
+    background-color: whitesmoke;
 }
 p{
     color: black;
@@ -235,7 +235,8 @@ section nav{
 .productos {
     border-radius: 5%;
     height: 250px;
-}
+} 
+
 
 
 @media only screen and ( max: 424px){
@@ -247,4 +248,14 @@ section nav{
     .Diploma img{
        align-content: center;
     }
+
+    .Josefin Sans{
+        font-family: "Josefin Sans";
+        font-weight: 400;
+        font-style: normal;
+        border-radius: 5%;
+        padding: 2%;
+        margin-top: 2%;
+      }
+   
 }
